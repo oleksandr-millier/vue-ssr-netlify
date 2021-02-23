@@ -1,4 +1,4 @@
-# vue-ssr-netlify
+# vue-spa-netlify
 
 ## Project setup
 ```

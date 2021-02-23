@@ -1,5 +1,5 @@
 {
-  "name": "vue-ssr-netlify",
+  "name": "vue-spa-netlify",
   "version": "0.1.0",
   "private": true,
   "scripts": {
